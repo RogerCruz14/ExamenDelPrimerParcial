@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ExamenPrimerParcial.Clases.PasajeAereoPromoción">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAABAAAAAAAAAAAAAAAAAAEAAAQAQAAAAAABA=</HashCode>
+      <FileName>Clases\PasajeAereoPromoción.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamenPrimerParcial.Clases.PasajeAereoTurista">
+    <Position X="6.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAECAAAAEAAAAAQBAAAAAAA=</HashCode>
+      <FileName>Clases\PasajeAereoTurista.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamenPrimerParcial.Clases.PasajerAereo">
+    <Position X="3.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAKAAAAAAAAAAAACEAAAAAAAAAAAEAAAAAQAAgAAAAI=</HashCode>
+      <FileName>Clases\PasajerAereo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamenPrimerParcial.Clases.PasajeroAereoPremium">
+    <Position X="2.5" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAEACAAAQAAAAAAAA=</HashCode>
+      <FileName>Clases\PasajeroAereoPremium.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
